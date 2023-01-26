@@ -1,18 +1,18 @@
-# # Project 1 - *Name of App Here*
+# # Project 1 - *MyStory*
 
-Submitted by: **Your Name Here**
+Submitted by: **Bryson Smith**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**myStory** is an app that introduces ... wolverine and various parts of his life. 
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [] Users are able to see a customized app icon and launch screen
+- [] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [ ] Users are able to see at least 3 context items
 - [ ] Users are able to tap into each context item and see detail view
 - [ ] Detail view contains information about each item (title, description, picture if applicable, etc.)
@@ -28,11 +28,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+MY video walkthrough
+https://user-images.githubusercontent.com/89875684/214720675-d78e9935-0c58-41e4-9f7b-1971733f5c44.mp4
+The zip file of the same walkthrough in gif form
+[ezgif.com-gif-maker.gif.zip](https://github.com/Bsmit4315/myStory/files/10504704/ezgif.com-gif-maker.gif.zip)
+
+
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+<!-- Replace this with whatever GIF tool you used! --> https://ezgif.com/resize/ezgif-3-047dc49cc0.gif
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
